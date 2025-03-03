@@ -26,7 +26,7 @@ This project is a **face recognition system** built using **OpenCV** and **LBPH 
 ## **Installation & Setup**
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Adistar964/face-detector.git
 cd your-repo
 ```
 
